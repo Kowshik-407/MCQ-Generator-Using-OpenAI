@@ -46,8 +46,6 @@ streamlit run StreamlitAPP.py
 
 #### Working with Webapp
 ![mcqgenerator-gif](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/f9a16c6f-66c1-41a1-b22c-d2579eb784eb)
-
-![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/2e6ddccd-5e3c-4c6d-9438-2e57c274144f)
 ![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/355ab37c-ac27-48fe-ad3e-f3c11ece1b13)
 ![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/be7012b5-52f5-4005-a44e-a86c0b8be1e2)
 
