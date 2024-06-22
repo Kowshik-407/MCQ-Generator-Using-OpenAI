@@ -27,7 +27,7 @@ conda create -p mcq_env python=3.8 -y
 source activate ./mcq_env
 ```
 3. Create a .env file and add the OPENAI_API = "<key>"
-4. Final step: Setup the requirements
+4. Setup the requirements
 ```
 pip install -r requirements.txt
 ```
