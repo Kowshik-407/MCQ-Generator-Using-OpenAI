@@ -35,3 +35,14 @@ pip install -r requirements.txt
 ```
 streamlit run StreamlitAPP.py
 ```
+
+## Website Overview
+#### Home Page
+![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/273953b2-35f2-4ee2-99e0-c345a11d6e32)
+![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/518c1d3f-8464-459f-b842-b6740bc4ea23)
+
+#### Working with Webapp
+![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/2e6ddccd-5e3c-4c6d-9438-2e57c274144f)
+![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/355ab37c-ac27-48fe-ad3e-f3c11ece1b13)
+![image](https://github.com/Kowshik-407/MCQ-Generator-Using-OpenAI/assets/66817358/be7012b5-52f5-4005-a44e-a86c0b8be1e2)
+
