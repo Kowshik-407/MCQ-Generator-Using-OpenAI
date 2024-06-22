@@ -7,6 +7,11 @@ Automated MCQ Generator Using Langchain OpenAI_API
   - If Anaconda is used the below are required:
 	  - Create a Virtual environment and activate it
 	  - Install all the packages in the Virutal Environment
+#### Tech Stack used in this project:
+1. Python (Programming Language)
+2. LangChain (Generative AI)
+3. Streamlit (Web App Implementation)
+4. OpenAI (LLM)
    
 ## Project Creation
 **Process:**
